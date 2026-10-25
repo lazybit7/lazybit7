@@ -16,16 +16,13 @@ He thinks he's pretty good at **eating spicy food** 🌶️ and loves Chongqing 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-|
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Flyte](https://img.shields.io/badge/Flyte-6C41EC?style=for-the-badge)
-|
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Beam](https://img.shields.io/badge/Apache_Beam-E74A2B?style=for-the-badge&logo=apachebeam&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![Samza](https://img.shields.io/badge/Samza-2D597F?style=for-the-badge)
-|
 ![Venice](https://img.shields.io/badge/Venice-3454D1?style=for-the-badge)
 ![Pinot](https://img.shields.io/badge/Pinot-E6526F?style=for-the-badge)
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
